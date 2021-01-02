@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggersMod.png);
+    background: url(triggersMOD.png);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumperMOD.png) no-repeat;
+    background: url(bumperMOD.PNG) no-repeat;
     opacity: 0;
 }
 
@@ -277,5 +277,3 @@ background-position: 0 -70px;
 }
 
 /*END PS4 Controller Styling*/
-
- 
